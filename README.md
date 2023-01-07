@@ -4,7 +4,7 @@ I am a System Security Engineer and Webdeveloper with focus on things like SOC (
 ## 📫 How to reach me:
 - Twitter: @stockfish
 - Email: daniel (at) codewichtel (dot) de
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/stockfish?label=Follow&style=social)](https://twitter.com/stockfish)
 <!--
 **codewichtel/codewichtel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
