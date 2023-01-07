@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi, I'm Daniel Brito Mendes 👋
+I am a System Security Engineer and Webdeveloper with focus on things like SOC (Security Operation Center), Linux and Webapplications.
+
+## 📫 How to reach me:
+- Twitter: @stockfish
+- Email: daniel (at) codewichtel (dot) de
 
 <!--
 **codewichtel/codewichtel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
