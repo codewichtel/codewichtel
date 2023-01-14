@@ -1,5 +1,5 @@
 ## Hi, I'm Daniel Brito Mendes 👋
-I am a System Security Engineer and Webdeveloper with focus on things like SOC (Security Operation Center), Linux and Webapplications.
+I am a System Security Engineer and Webdeveloper working on things like a SOC (Security Operation Center), Linux and Webapplications.
 
 ## 📫 How to reach me:
 - Twitter: @stockfish [![Twitter Follow](https://img.shields.io/twitter/follow/stockfish?label=Follow&style=social)](https://twitter.com/stockfish)
